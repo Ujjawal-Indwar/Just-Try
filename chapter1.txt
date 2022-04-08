@@ -1,2 +1,2 @@
-This is chapter 1 and we are learning how to use Git and Github
+Side Story chapter 1.
 
